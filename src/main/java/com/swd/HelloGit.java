@@ -5,5 +5,6 @@ public class HelloGit {
         System.out.println("Hello Git!");
         System.out.println("Hello fix!");
         System.out.println("push to github！");
+        System.out.println("pull from github！");
     }
 }
